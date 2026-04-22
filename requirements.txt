@@ -1,0 +1,15 @@
+neo4j
+groq
+nltk
+rapidfuzz
+sentence-transformers
+faiss-cpu
+numpy
+pymupdf
+fastapi
+uvicorn
+pydantic
+python-multipart
+shutil
+pickle
+re
